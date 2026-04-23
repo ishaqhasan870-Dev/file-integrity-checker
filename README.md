@@ -167,8 +167,7 @@ This project is open-source under the MIT License.
 
 ## 👨‍💻 Author
 # out put file
-https://github.com/user-attachments/assets/554a4aa1-8ebc-4361-9987-99c6f4be2b08
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/554a4aa1-8ebc-4361-9987-99c6f4be2b08" />
 **SYED MOHAMMED ISHAQ HASAN**
 📧 [ishaqhasan870@gmail.com](mailto:ishaqhasan870@gmail.com)
 🔗 LinkedIn: https://www.linkedin.com/in/syed-mohammed-ishaq-hasan-47a87b254/
