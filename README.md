@@ -1,4 +1,4 @@
-File Integrity Checker  
+# File Integrity Checker  
 COMPANY NAME : CODTECH IT SOLUTIONS 
 NAME : SYED MOHAMMED ISHAQ HASAN  
 INTERN ID : CTIS7048 
