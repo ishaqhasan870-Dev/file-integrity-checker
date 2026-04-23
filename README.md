@@ -1,3 +1,11 @@
+File Integrity Checker  
+COMPANY NAME : CODTECH IT SOLUTIONS 
+NAME : SYED MOHAMMED ISHAQ HASAN  
+INTERN ID : CTIS7048 
+DOMAIN : Cyber Security and Ethical Hacking
+DURATION: 4 WEEKS MENTOR: NEELA SANTOSH
+
+
 # 🔐 File Integrity Checker
 
 A powerful Python-based **File Integrity Checker** that monitors files and folders for unauthorized changes using **SHA-256 hashing**.
